@@ -1,0 +1,6 @@
+flask
+pyTelegramBotAPI
+python-binance
+pandas
+ta
+gunicorn
