@@ -1405,13 +1405,7 @@ def track_trades():
 
         time.sleep(60)
 
-# =========================
-# WEB
-# =========================
 
-@app.route('/')
-def home():
-    return "AI Futures Bot Running"
 
 # =========================
 # THREADS
