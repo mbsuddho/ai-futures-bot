@@ -4,3 +4,4 @@ python-binance
 pandas
 ta
 gunicorn
+openai
